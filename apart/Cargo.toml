@@ -1,0 +1,12 @@
+[package]
+name = "apart"
+version = "0.1.0"
+authors = ["0ry <0ry.its@gmail.com>"]
+
+[dependencies]
+serde = "1"
+serde_derive = "1"
+rocket = "0.2.8"
+rocket_codegen = "0.2.8"
+csv = "1.0.0-beta.3"
+
